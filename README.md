@@ -15,16 +15,19 @@ This capstone project will be graded by your peers. This capstone project is wor
 
 ### For week 1
 1.- A description of the problem and a discussion of the background. _(15 marks)_  
+
 2.- A description of the data and how it will be used to solve the problem. _(15 marks)_  
 
 ### For week 2,
 
 1.- A link to your Notebook on your Github repository, showing your code. _(15 marks)_  
+
 2.- A full report consisting of all of the following components _(15 marks)_:  
-  - Introduction where you discuss the business problem and who would be interested in this project.
-  - Data where you describe the data that will be used to solve the problem and the source of the data.
-  - Methodology section which represents the main component of the report where you discuss and describe any exploratory data analysis that you did, any inferential statistical testing that you performed, and what machine learnings were used and why.
-  - Results section where you discuss the results.
-  - Discussion section where you discuss any observations you noted and any recommendations you can make based on the results.
-  - Conclusion section where you conclude the report.  
+    - Introduction where you discuss the business problem and who would be interested in this project.
+    - Data where you describe the data that will be used to solve the problem and the source of the data.
+    - Methodology section which represents the main component of the report where you discuss and describe any exploratory data analysis that you did, any inferential statistical testing that you performed, and what machine learnings were used and why.
+    - Results section where you discuss the results.
+    - Discussion section where you discuss any observations you noted and any recommendations you can make based on the results.
+    - Conclusion section where you conclude the report. 
+    
 3.- Your choice of a presentation or blogpost. _(10 marks)_
